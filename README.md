@@ -6,9 +6,9 @@ Machine Learning Engineer | Software Developer
 
 I'm a seasoned Software Engineer (3+ years) and Machine Learning Researcher with a strong background in developing AI-driven solutions. Currently a researcher at the University of Florida, I've significantly reduced resource utilization costs and improved data accuracy in precision agriculture. My experience as a co-founder and software engineer showcase my expertise in user experience design, system architecture, and team leadership. My technical proficiency spans a wide range of languages and frameworks, underpinned by a Master's in Computer Science. I have worked and developed end-to-end solutions across multiple technology stacks including SpringBoot, React, MERN etc. My work includes impactful projects like a food relief ERP system during COVID-19 reaching 65 million people and a vehicle health monitoring system.
 
-* 🌍  I'm based in Gainesville, FL
 <!-- * 🖥️  See my portfolio at [LofiDev](http://prateekkumargoel.com) -->
 <!-- * ✉️  You can contact me at [connectprateek95@gmail.com](mailto:connectprateek95@gmail.com) -->
+* 🌍  I'm based in Gainesville, FL
 * 🧠  I'm learning Jenkins, Mamba-3B, Transformers
 * 🤝  I'm open to collaborating on LLMs, VisionAI, Knowledge Based AI
 
