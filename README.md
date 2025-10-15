@@ -8,8 +8,8 @@ I'm a seasoned Software Engineer (3+ years) and Machine Learning Researcher with
 
 <!-- * 🖥️  See my portfolio at [LofiDev](http://prateekkumargoel.com) -->
 <!-- * ✉️  You can contact me at [connectprateek95@gmail.com](mailto:connectprateek95@gmail.com) -->
-* 🌍  I'm based in Gainesville, FL
-* 🧠  I'm learning Jenkins, Mamba-3B, Transformers
+* 🌍  I'm based in Syracuse, NY
+* 🧠  I'm learning MCP, KV Caching and MOE
 * 🤝  I'm open to collaborating on LLMs, VisionAI, Knowledge Based AI
 
 ### Skills
