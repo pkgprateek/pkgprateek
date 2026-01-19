@@ -2,9 +2,11 @@
 
 > **Systems Architect.** I build AI infrastructure that survives production.
 
-[![Systems Architect](https://img.shields.io/badge/Role-Systems_Architect-000000?style=for-the-badge)](https://nandakasystems.com)
+[![Systems Architect](https://img.shields.io/badge/Role-Systems_Architect-000000?style=for-the-badge)](https://prateekgoel.com)
+&nbsp;&nbsp;&nbsp;
 [![Focus](https://img.shields.io/badge/Focus-AI_Infrastructure_%7C_Cost_Optimization-0891b2?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Open_for_Consulting-22c55e?style=for-the-badge)](mailto:connectprateek95@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open_for_Consulting-22c55e?style=for-the-badge)](mailto:prateekgoelk@gmail.com)
 
 Most AI engineers connect APIs. I architect the systems that keep those APIs from timing out, hallucinating, or bankrupting you.
 
@@ -65,6 +67,6 @@ I am currently accepting **Consulting & Retainer** engagements for Q1/Q2 2026.
 
 * **Ideal Client**: Series A/B startups hitting the "Prototype Ceiling."
 * **Services**: Infrastructure Audit, RAG Optimization, Cost-Reduction Architecture.
-* **Contact**: [connectprateek95@gmail.com](mailto:connectprateek95@gmail.com)
+* **Contact**: [connectprateek95@gmail.com](mailto:pratekgoelk@gmail.com)
 
-[LinkedIn](https://linkedin.com/in/pkgprateek) • [X / Twitter](https://x.com/pkgprateek)
+[LinkedIn](https://linkedin.com/in/prateekkgoel) • [X / Twitter](https://x.com/prateekkgoel)
