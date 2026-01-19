@@ -67,6 +67,6 @@ I am currently accepting **Consulting & Retainer** engagements for Q1/Q2 2026.
 
 * **Ideal Client**: Series A/B startups hitting the "Prototype Ceiling."
 * **Services**: Infrastructure Audit, RAG Optimization, Cost-Reduction Architecture.
-* **Contact**: [connectprateek95@gmail.com](mailto:pratekgoelk@gmail.com)
+* **Contact**: [pratekgoelk@gmail.com](mailto:pratekgoelk@gmail.com)
 
 [LinkedIn](https://linkedin.com/in/prateekkgoel) • [X / Twitter](https://x.com/prateekkgoel)
